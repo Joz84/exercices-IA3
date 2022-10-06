@@ -78,7 +78,7 @@ questions = [
 ]
 ```
 ### EXO6
-Find the number of letters in a sentence (space and punctuation included) Example:
+Find the number of letters in a sentence (space and punctuation excluded) Example:
 ```
 > write sentence
 To be or not to be, that is the question!
