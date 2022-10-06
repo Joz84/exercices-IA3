@@ -14,7 +14,7 @@ Put a list of questions to your user and store his answers in a array. Example:
  > Yours answers: [yes, no, no, no]
  ```
 ### EXO2
-Display a todo list, suggest the delete user an accomplished task and display the updated todo list Example:
+Display a todo list  Ask user which task has been completed Display the updated todo list:
 ```
  > Your todo List
  > ["course", "menage", "lessive"]
