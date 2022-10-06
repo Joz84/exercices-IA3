@@ -82,7 +82,7 @@ Find the number of letters in a sentence (space and punctuation excluded) Exampl
 ```
 > write sentence
 To be or not to be, that is the question!
-> Your sentence has 41 characters
+> Your sentence has 30 characters
 ```
 Help: You need to split your string to list
 
