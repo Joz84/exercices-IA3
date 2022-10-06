@@ -27,31 +27,31 @@ Display a todo list  Ask user which task has been completed Display the updated 
 You display the user's calendar. you suggest adding a booking Example:
 ```
  > Your agenda :
- > { "15/03/2019" => "coding skills", "18/03/2019" => "Hollidays"}
+ > { "15/03/2019": "coding skills", "18/03/2019": "Hollidays"}
  > Add date of booking: (format: "dd/mm/yyyy"):
  20/03/2020
  > add description of booking:
  end of hollidays
 
  > Your agenda :
- > { "15/03/2019" => "coding skills",
-     "18/03/2019" => "Hollidays",
-     "20/03/2020" => "end of hollidays"
+ > { "15/03/2019": "coding skills",
+     "18/03/2019": "Hollidays",
+     "20/03/2020": "end of hollidays"
  }
  ```
 ### EXO4
 You display the last user's order. you suggest updating a order status from pending to payed. Example:
 ```
  > Your order is :
- > { "date" => "12/03/2019",
-   "description" => "Achat de courgettes en ligne"
-   "status" => "pending"
+ > { "date": "12/03/2019",
+   "description": "Achat de courgettes en ligne"
+   "status": "pending"
  }
  > Change the status
  payed
- > { "date" => "12/03/2019",
-   "description" => "Achat de courgettes en ligne"
-   "status" => "payed"
+ > { "date": "12/03/2019",
+   "description": "Achat de courgettes en ligne"
+   "status": "payed"
  }
 ```
 ## FOR or WHILE
